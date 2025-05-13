@@ -5,9 +5,7 @@ Project Title: Treasure Hunting Game
 
 Overview:
 This is a simple treasure-hunting game built on a fixed 6×6 grid. 
-
 🎯 marks the start at the top‐left corner and 🏁 marks the finish at the bottom‐right corner.
-
 Two types of treasure (five 🌸 and five 💎), are placed across the map, and all other tiles are grassland 🟩. 
 
 
