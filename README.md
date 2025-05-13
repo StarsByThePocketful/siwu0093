@@ -12,7 +12,7 @@ Two types of treasure (five 🌸 and five 💎), are placed across the map, and 
 Gameplay Mechanics:
 
 •	The player moves by entering w/a/s/d for up/left/down/right, or types status to view current treasure counts. 
-    The player can also type STOP to quit the game and show the current status. The command is case-sensitive.
+    The player can also type STOP to quit the game, with the current status shown. The command is case-sensitive.
     
 •	If an invalid command is entered or a move would exceed the map boundary, 
     the system displays an error and prompts again until a valid command is given.
